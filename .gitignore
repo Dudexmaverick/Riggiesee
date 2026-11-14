@@ -8,3 +8,20 @@
 *.d
 *.o
 *.pcm
+
+# Swift
+.build/
+.swiftpm/
+*.swiftmodule
+*.swiftdeps
+*.swiftdoc
+*.swiftsourceinfo
+*.dia
+*.d
+*.o
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
