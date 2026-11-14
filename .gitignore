@@ -25,3 +25,20 @@
 
 # Logs
 *.log
+
+# Arquivos gerados
+.build/
+.swiftpm/
+*.log
+
+# Backups e arquivos temporarios
+backups/
+*.backup
+*.save
+*.antes-correcao
+*.pre-animacao
+*~
+
+# Arquivos locais do editor
+.vscode/
+.DS_Store
