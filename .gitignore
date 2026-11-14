@@ -1,0 +1,10 @@
+.build/
+.swiftpm/
+*.swiftmodule
+*.swiftdeps
+*.swiftdoc
+*.swiftsourceinfo
+*.dia
+*.d
+*.o
+*.pcm
